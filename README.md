@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi there, I'm Aravind 👋
 
-<!--
-**aravindvenugopal30-ops/aravindvenugopal30-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Embedded Systems & Firmware Engineer
+Specializing in *Bare-Metal C Programming*, register-level peripheral driver development, and hardware-software integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+* *Languages:* Embedded C, C
+* *Microcontrollers:* STM32, PIC, ARM7 (LPC2148)
+* *Protocols & Peripherals:* UART, SPI, I2C, ADC, PWM, Timers, EXTI
+* *Tools & IDEs:* STM32CubeIDE, MPLAB X, Keil µVision, VS Code, Git, Proteus
+* *Core Concepts:* Register-level Driver Development, Interrupt Handling, System Architecture
+
+---
+
+### 🚀 Key Projects
+* *STM32 Gas Monitoring System:* Bare-metal C implementation for MQ-7 sensor integration with I2C LCD & ADC interrupts.
+* *Automatic Water Level Controller:* Sensor-triggered automatic pump control system.
+* *Bare-Metal Drivers Collection:* Custom register-level drivers written from scratch without vendor HAL libraries.
+
+---
